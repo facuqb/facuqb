@@ -6,6 +6,6 @@ Welcome to my repository!!
 
 Hola! Mi nombre es Facundo Quiroga. Tengo 32 años y vivo en Salta, Argentina.
 Me encuentro estudiando la carrera de Certified Tech Developer dictada por Digital Hpuse, donde he aprendido HTML, CSS, JS, JAVA, SQL y QA, y espero poder obtener pronto un trabajo relacionado con el desarrollo de software. IT ha sido mi pasion desde que puedo recordar!!
-Soy abogado y desde hace 8 años trabajo en el Poder Juciail de mi ciudad en tribunales penales, haciendo proyectos de resoluciones legal y administracion de recursos humanos.
+Soy abogado y desde hace 8 años trabajo en el Poder Judicial de mi ciudad en tribunales penales, haciendo proyectos de resoluciones legal y administracion de recursos humanos.
 Es mi sueño poder trabajar en proyectos que involucren IT y el derecho.
 Bienvenidos a mi repositorio.
